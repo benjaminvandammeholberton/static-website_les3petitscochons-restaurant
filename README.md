@@ -1,6 +1,6 @@
 # 1 - "Les 3 Petits Cochons" Website
 
-This is the display website made for the restsaurant "Les 3 Petits Cochons" in Laval (France).
+This is the display website made for the restaurant "Les 3 Petits Cochons" in Laval (France).
 
 This is my 2nd project on my way to become web developer.
 
