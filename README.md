@@ -8,4 +8,4 @@ I have done everything from scratch including photos, design and texts.
 
 I used HTML, CSS, SASS technolgies and I used Visual Studio Code to code it.
 
-Here is the link : http://www.restauranles3petitscochonslaval.fr
+Here is the link : https://www.restaurantles3petitscochonslaval.fr
