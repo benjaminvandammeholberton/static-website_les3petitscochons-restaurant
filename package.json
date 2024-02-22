@@ -1,0 +1,16 @@
+{
+  "name": "3petitscochons",
+  "version": "1.0.0",
+  "description": "website for 3 petits cochons restaurant",
+  "scripts": {
+    "watch:sass": "node-sass --watch src/scss -o public/css"
+  },
+  "author": "Benjamin Vandamme",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
