@@ -1,4 +1,4 @@
-# 1 - "Les 3 Petits Cochons" Website
+"Les 3 Petits Cochons" Website
 
 This is the display website made for the restaurant "Les 3 Petits Cochons" in Laval (France).
 
